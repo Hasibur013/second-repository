@@ -6,3 +6,13 @@ h1{
 p{
     background-color: cornsilk;
 }
+marquee{
+    font-size: large;
+    font-weight: 900;
+}
+img{
+
+    margin: 100px auto;
+    height: 400px;
+    width: 400px;
+}
